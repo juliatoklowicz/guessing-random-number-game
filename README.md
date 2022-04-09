@@ -1,3 +1,8 @@
-Kotlin guessing random number mobile game. Exercise for mobile apps course. 
+Kotlin guessing random number mobile game with registration, login and top 10 users list. 
 
-![Screenshot_20220330-174119](https://user-images.githubusercontent.com/51402846/160879649-ab2e5caf-27f0-431f-b896-234cfd973bd6.jpg)
+
+
+
+
+https://user-images.githubusercontent.com/51402846/162565015-fc84dd80-a81b-40f5-951f-72ba0e001203.mp4
+
