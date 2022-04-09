@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739817558953",
+    "project_id": "gra-losujaca",
+    "storage_bucket": "gra-losujaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739817558953:android:834ec26a6e23d9d8e4aab8",
+        "android_client_info": {
+          "package_name": "com.example.gra_losujaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739817558953-lf30j1r0ce1o5qs3upijmtl88rlsnuvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZDJbdHvIpkmRHSCxmq8mSgd50Txd-kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739817558953-lf30j1r0ce1o5qs3upijmtl88rlsnuvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
